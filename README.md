@@ -1,1 +1,0 @@
-# bootcamp-day1-task1-pythondjango
